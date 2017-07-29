@@ -11,7 +11,7 @@
     "src/"
   ],
   "name": "ldr-export-opml",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert ldr exported json to opml with rate and category",
   "main": "src/ldr-export-opml.js",
   "bin": {
