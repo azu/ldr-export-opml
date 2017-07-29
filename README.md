@@ -1,8 +1,9 @@
-# ldr-export-opml
+# ldr-export-opml [![Build Status](https://travis-ci.org/azu/ldr-export-opml.svg?branch=master)](https://travis-ci.org/azu/ldr-export-opml)
+
 
 Convert ldr exported json to opml with rate.
 
-LDRのフィードデータからレートをカテゴリとしたOPML(XML)ファイルを作成するツールです。
+LDRのフィードデータから**レート**（☆）をカテゴリとしたOPML(XML)ファイルを作成するツールです。
 
 ## Install
 

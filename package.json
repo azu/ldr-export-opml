@@ -13,9 +13,12 @@
   "name": "ldr-export-opml",
   "version": "1.0.0",
   "description": "Convert ldr exported json to opml with rate and category",
-  "main": "lib/ldr-export-opml.js",
+  "main": "src/ldr-export-opml.js",
+  "bin": {
+    "ldr-export-opml": "bin/cmd.js"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "keywords": [
     "ldr",
