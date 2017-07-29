@@ -6,6 +6,11 @@ LDRのフィードデータから**レート**（★★★☆☆）をカテゴ�
 
 [Live Dwango Reader](http://reader.livedoor.com/reader/ "Live Dwango Reader")から他のRSSリーダへ移行する際に、レートデータを維持して移行する用途です。
 
+## 必要なもの
+
+- Node.js 6>=
+- 後述する`ldr.json`
+
 ## Install
 
 Install with [npm](https://www.npmjs.com/):
@@ -25,7 +30,7 @@ Install with [npm](https://www.npmjs.com/):
       $ ldr-export-opml path/to/ldr.json
       $ cat path/to/ldr.json | ldr-export-opml 
 
-## How to ldr.json
+## How to get ldr.json
 
 ldr.json is response of `http://reader.livedoor.com/api/subs?unread=0` API.
 
