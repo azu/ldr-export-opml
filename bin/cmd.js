@@ -20,9 +20,9 @@ const cli = meow(`
 if (cli.flags.help) {
     cli.showHelp();
 }
-const file = process.argv[2];
+const file = cli.input[0];
 const input = file && file !== '-'
-    ? fs.createReadStream(process.argv[2])
+    ? fs.createReadStream(cli.input[0])
     : process.stdin;
 input.pipe(concat(function(buf) {
     const opml = convertJsonToXML(JSON.parse(buf.toString('utf8')));
