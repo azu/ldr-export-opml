@@ -36,6 +36,10 @@ ldr.json is response of `http://reader.livedoor.com/api/subs?unread=0` API.
 
 `ldr.json`にはカテゴリ、レートなどの情報が含まれています。
 
+## 確認環境
+
+- [x] [Inoreader](http://www.inoreader.com/ "Inoreader -")
+
 ## Changelog
 
 See [Releases page](https://github.com/azu/ldr-export-opml/releases).
