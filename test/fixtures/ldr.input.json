@@ -1,0 +1,44 @@
+[
+  {
+    "icon": "http://image.reader.livedwango.com/img/icon/default.gif",
+    "link": "http://subtech.g.hatena.ne.jp/mala/",
+    "subscribe_id": 12256399,
+    "unread_count": 0,
+    "folder": "Programming",
+    "tags": [],
+    "rate": 4,
+    "modified_on": "1409842887",
+    "public": 0,
+    "title": "金利0無利息キャッシング – キャッシングできます",
+    "subscribers_count": "1045",
+    "feedlink": "http://subtech.g.hatena.ne.jp/mala/rss2"
+  },
+  {
+    "icon": "http://image.reader.livedwango.com/favicon/a/e/ae09425b3ab46d3665cce24909f488330edfc716.png",
+    "link": "http://blog.livedoor.jp/staff_reader/",
+    "subscribe_id": 12256405,
+    "unread_count": 0,
+    "folder": "walf443",
+    "tags": [],
+    "rate": 5,
+    "modified_on": "1500886853",
+    "public": 0,
+    "title": "LDR / LDRポケット 開発日誌",
+    "subscribers_count": "283673",
+    "feedlink": "http://blog.livedoor.jp/staff_reader/atom.xml"
+  },
+  {
+    "icon": "http://image.reader.livedwango.com/favicon/b/8/b815a7ff1a5048ecc7d5d247543dbdd80efaee59.png",
+    "link": "https://japan.cnet.com",
+    "subscribe_id": 12256407,
+    "unread_count": 0,
+    "folder": "walf443",
+    "tags": [],
+    "rate": 0,
+    "modified_on": "1501275600",
+    "public": 0,
+    "title": "CNET Japan 最新情報　総合",
+    "subscribers_count": "22280",
+    "feedlink": "http://feed.japan.cnet.com/rss/index.rdf"
+  }
+]

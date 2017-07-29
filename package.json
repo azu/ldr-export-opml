@@ -1,0 +1,49 @@
+{
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "author": "azu",
+  "license": "MIT",
+  "files": [
+    "bin/",
+    "lib/",
+    "src/"
+  ],
+  "name": "ldr-export-opml",
+  "version": "1.0.0",
+  "description": "Convert ldr exported json to opml with rate and category",
+  "main": "lib/ldr-export-opml.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ldr",
+    "opml",
+    "rss",
+    "generator",
+    "converter",
+    "backup",
+    "export"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azu/ldr-export-opml.git"
+  },
+  "bugs": {
+    "url": "https://github.com/azu/ldr-export-opml/issues"
+  },
+  "homepage": "https://github.com/azu/ldr-export-opml",
+  "dependencies": {
+    "concat-stream": "^1.6.0",
+    "get-stdin": "^5.0.1",
+    "lodash.groupby": "^4.6.0",
+    "make-dir": "^1.0.0",
+    "meow": "^3.7.0",
+    "opml-generator": "^1.1.1",
+    "xml": "^1.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^3.4.2"
+  }
+}
