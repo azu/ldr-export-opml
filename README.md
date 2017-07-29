@@ -1,9 +1,10 @@
 # ldr-export-opml [![Build Status](https://travis-ci.org/azu/ldr-export-opml.svg?branch=master)](https://travis-ci.org/azu/ldr-export-opml)
 
+Convert exported json from LDR to opml with rate.
 
-Convert ldr exported json to opml with rate.
+LDRのフィードデータから**レート**（★★★☆☆）をカテゴリとしたOPML(XML)ファイルを作成するツールです。
 
-LDRのフィードデータから**レート**（☆）をカテゴリとしたOPML(XML)ファイルを作成するツールです。
+[Live Dwango Reader](http://reader.livedoor.com/reader/ "Live Dwango Reader")から他のRSSリーダへ移行する際に、レートデータを維持して移行する用途です。
 
 ## Install
 
